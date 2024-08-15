@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bernardo de la Sierra Rábago</h1>
+<h1 align="center">Hi 👋 there, I'm Bernardo de la Sierra Rábago </h1>
 <h3 align="center">A passionate full stack developer from México</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bdelas777&label=Profile%20views&color=0e75b6&style=flat" alt="bdelas777" /> </p>
