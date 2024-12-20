@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bdelas777" alt="bdelas777" /></a> </p>
 
-- 🔭 I’m currently working on [WhatsApp](https://github.com/Bdelas777/WhatsApp)
+- 🔭 I’m currently working on [Vita](https://github.com/wizelineacademy/itesm-socioformador-feb-jun-2024-vita)
 
 - 🌱 I’m currently learning **Next and AWS and Swift Technologies**
 
@@ -42,5 +42,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bdelas777&show_icons=true&locale=en" alt="bdelas777" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bdelas777&" alt="bdelas777" /></p>
-
-
